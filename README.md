@@ -1,110 +1,105 @@
-# Biswajit Sahoo
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BCA+Student;Web+Development+Enthusiast;Python+Developer;Frontend+Developer;Building+Projects+with+Code" alt="Typing Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Biswajit%20Sahoo&fontSize=55&fontAlignY=35&animation=fadeIn&desc=BCA%20Student%20%7C%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Animated Header"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Biswa915">
-    <img src="https://img.shields.io/badge/GitHub-Biswa915-161B22?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Web+Development+Enthusiast;Python+Developer;Frontend+Developer;Building+Projects+with+Code;Always+Learning+%26+Improving" alt="Typing Animation"/>
 </p>
 
 ---
 
-## About
+## About Me
 
-I am a **BCA student at Adamas University** interested in **Web Development, Python, and Software Development**.
+I am a **BCA student at Adamas University** with an interest in **Web Development, Python, and Software Development**.
 
-My focus is on building practical projects, strengthening my programming fundamentals, and developing clean and responsive web experiences.
-
-I believe in learning by building and continuously improving through real-world projects.
+I enjoy building practical projects, solving programming problems, and continuously improving my technical skills through hands-on development.
 
 ---
 
 ## Technical Skills
 
-**Languages**
+### Languages
 
-`Python` `Java` `C` `JavaScript`
-
-**Web Development**
-
-`HTML5` `CSS3` `JavaScript` `Flexbox` `CSS Grid` `Responsive Design`
-
-**Database**
-
-`MySQL` `SQL` `DBMS`
-
-**Tools & Technologies**
-
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
-
----
-
-## Featured Work
+`Python` · `Java` · `C` · `JavaScript`
 
 ### Web Development
 
-A collection of frontend projects created using HTML, CSS and JavaScript, focusing on responsive layouts and modern UI development.
+`HTML5` · `CSS3` · `JavaScript` · `Flexbox` · `CSS Grid` · `Responsive Design`
 
-### Python Programming
+### Database
 
-Programming exercises and projects focused on Python fundamentals, logic building, algorithms and problem solving.
+`MySQL` · `SQL` · `DBMS`
 
-### Frontend Development
+### Tools
 
-Responsive website interfaces developed while exploring modern frontend development techniques.
+`Git` · `GitHub` · `VS Code` · `Jupyter Notebook`
 
 ---
 
-## GitHub Activity
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswa915&show_icons=true&hide_border=true&theme=github_dark" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa915&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,mysql,git,github,vscode" alt="Technology Stack"/>
+</p>
+
+---
+
+## Projects
+
+### Web Development
+
+Frontend projects focused on responsive layouts, modern UI design, HTML, CSS and JavaScript.
+
+### Python Programming
+
+Python programs and projects focused on programming fundamentals, logic building and problem solving.
+
+### Frontend Development
+
+Responsive website interfaces created while learning modern web development techniques.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswa915&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa915&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 ---
 
 ## Current Focus
 
-```text
-Web Development
-Python Programming
-JavaScript
-Responsive UI Design
-Problem Solving
-Git & GitHub
-```
+* Web Development
+* Python Programming
+* JavaScript
+* Responsive UI Design
+* Problem Solving
+* Git & GitHub
 
 ---
 
 ## Goals
 
-* Build production-quality web projects
-* Strengthen Python and JavaScript skills
-* Develop strong problem-solving fundamentals
-* Learn modern frontend technologies
+* Build real-world projects
+* Improve frontend development skills
+* Strengthen Python and JavaScript
+* Learn modern development technologies
 * Contribute to open-source projects
-* Build a strong software development portfolio
+* Build a strong developer portfolio
 
 ---
 
-## Connect
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/Biswa915">
-    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" alt="Footer"/>
-</p>
-
-<p align="center">
-  <sub>© 2026 Biswajit Sahoo · Built with Markdown</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" alt="Footer"/>
 </p>
