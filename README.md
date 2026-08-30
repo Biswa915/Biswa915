@@ -1,101 +1,125 @@
 # 👋 Hi, I'm Biswajit Sahoo
 
-### 💻 BCA Student | Web Development & Python Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BCA+Student;Web+Development+Enthusiast;Python+Developer;Frontend+Developer;Always+Learning+%26+Building+🚀" />
+</p>
 
-Welcome to my GitHub profile! 🚀
-I'm a BCA student at **Adamas University**, passionate about learning **Web Development, Python, and emerging technologies**.
-
-I enjoy building projects, solving programming problems, and continuously improving my technical skills.
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 BCA Student at Adamas University
-* 🌱 Currently learning **Web Development & Python**
-* 💻 Interested in **Frontend Development & Programming**
-* 🐍 Working with Python for programming and problem solving
-* 🌐 Learning HTML, CSS & JavaScript
-* 🚀 Building projects to improve my practical skills
-* 📚 Always learning something new
+<p align="center">
+  <a href="https://github.com/Biswa915">
+    <img src="https://komarev.com/ghpvc/?username=Biswa915&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me
+
+I'm a **BCA student at Adamas University** with a strong interest in **Web Development, Python, and Software Development**.
+
+I enjoy turning ideas into practical projects and continuously improving my programming and problem-solving skills.
+
+* 🎓 BCA Student — Adamas University
+* 💻 Interested in Web Development & Software Development
+* 🐍 Learning and building with Python
+* 🌐 Working with HTML, CSS & JavaScript
+* 🗄️ Exploring SQL & DBMS
+* 🔧 Using Git & GitHub for version control
+* 🚀 Building projects and improving every day
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🐍 Programming & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswa915&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswa915&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Biswa915&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🌐 Web Development
 
-* HTML5
-* CSS3
-* JavaScript
-* Flexbox
-* CSS Grid
-* Responsive Web Design
+A collection of my HTML, CSS and frontend development projects.
 
-### 🐍 Programming
+### 🐍 Python Practice
 
-* Python
-* Java
-* C
+Python programming exercises, logic building and problem-solving programs.
 
-### 🗄️ Database
+### 💻 Frontend Projects
 
-* SQL
-* DBMS
+Responsive layouts and website interfaces created while learning modern web development.
 
-### 🔧 Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+> ⭐ Check out my repositories to see what I'm currently building.
 
 ---
 
-## 📂 My Projects
-
-Here are some of the projects and practice repositories I'm working on:
-
-* 🌐 **Web Development** — HTML & CSS projects and practice
-* 🐍 **Python Practice** — Python programs and problem-solving exercises
-* 🎨 **Frontend Projects** — Website layouts and responsive designs
-* 📊 **Data Science Practice** — Exploring Python-based data analysis
-
-Check out my repositories to see my latest work!
-
----
-
-## 📈 My Learning Journey
+## 🎯 Current Goals
 
 ```text
-HTML & CSS        ████████████████████ 100%
-Python            ████████████████░░░░  80%
-JavaScript        ████████████░░░░░░░░  60%
-Java              ████████████░░░░░░░░  60%
-SQL & DBMS        ██████████████░░░░░░  70%
+✔ Improve Frontend Development
+✔ Strengthen Python Programming
+✔ Learn JavaScript
+✔ Build Real-World Projects
+✔ Improve Problem Solving
+✔ Explore Open Source
 ```
 
 ---
 
-## 🎯 2026 Goals
+## 📚 Currently Learning
 
-* 🚀 Improve my Web Development skills
-* 🐍 Become stronger in Python
-* ⚡ Learn JavaScript more deeply
-* 💻 Build real-world projects
-* 🌎 Contribute to Open Source
-* 📚 Keep learning and growing as a developer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,python,git" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and working on interesting projects.
-
-**GitHub:** [Biswa915](https://github.com/Biswa915)
+<p align="center">
+  <a href="https://github.com/Biswa915">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+</p>
 
-> **"Learn • Build • Improve • Repeat 🚀"**
+<p align="center">
+  <b>🚀 Learn • Build • Improve • Repeat</b>
+</p>
